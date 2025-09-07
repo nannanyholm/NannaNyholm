@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi Hei! Olen Nanna Nyholm, LAB-ammattikorkeakoulun opiskelija. Tämä repositorio on osa Ohjelmoinnin perusteet -kurssia, jota käyn syksyllä 2025. Ohjelmointi on minulle uutta, mutta olen todella innostunut oppimaan ja kehittymään. Tänne kokoan kurssin aikana tehtäviä ja harjoituksia.
+
+
 
 <!--
 **nannanyholm/NannaNyholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
